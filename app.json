@@ -1,0 +1,7 @@
+{
+  "name": "Node.js dummy_server_trend",
+  "description": "A dummy_server_trend app using Express 4",
+  "repository": "",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
